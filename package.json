@@ -1,0 +1,14 @@
+{
+  "name": "uploadfile",
+  "version": "1.0.0",
+  "description": "to upload the file like image , video etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
